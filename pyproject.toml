@@ -7,7 +7,7 @@ include = ["automate_everything*"]
 
 [project]
 name = "autoamte_everything"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Kamil" },
 ]
